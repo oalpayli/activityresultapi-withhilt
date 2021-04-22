@@ -1,0 +1,3 @@
+allprojects {
+    repositories.applyDefault()
+}
